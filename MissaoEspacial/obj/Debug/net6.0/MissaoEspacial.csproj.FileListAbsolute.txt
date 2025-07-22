@@ -1,0 +1,15 @@
+C:\Users\jorge.jr\Desktop\workspace\MissaoEspacialConsole\MissaoEspacial\bin\Debug\net6.0\MissaoEspacial.exe
+C:\Users\jorge.jr\Desktop\workspace\MissaoEspacialConsole\MissaoEspacial\bin\Debug\net6.0\MissaoEspacial.deps.json
+C:\Users\jorge.jr\Desktop\workspace\MissaoEspacialConsole\MissaoEspacial\bin\Debug\net6.0\MissaoEspacial.runtimeconfig.json
+C:\Users\jorge.jr\Desktop\workspace\MissaoEspacialConsole\MissaoEspacial\bin\Debug\net6.0\MissaoEspacial.dll
+C:\Users\jorge.jr\Desktop\workspace\MissaoEspacialConsole\MissaoEspacial\bin\Debug\net6.0\MissaoEspacial.pdb
+C:\Users\jorge.jr\Desktop\workspace\MissaoEspacialConsole\MissaoEspacial\obj\Debug\net6.0\MissaoEspacial.csproj.AssemblyReference.cache
+C:\Users\jorge.jr\Desktop\workspace\MissaoEspacialConsole\MissaoEspacial\obj\Debug\net6.0\MissaoEspacial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge.jr\Desktop\workspace\MissaoEspacialConsole\MissaoEspacial\obj\Debug\net6.0\MissaoEspacial.AssemblyInfoInputs.cache
+C:\Users\jorge.jr\Desktop\workspace\MissaoEspacialConsole\MissaoEspacial\obj\Debug\net6.0\MissaoEspacial.AssemblyInfo.cs
+C:\Users\jorge.jr\Desktop\workspace\MissaoEspacialConsole\MissaoEspacial\obj\Debug\net6.0\MissaoEspacial.csproj.CoreCompileInputs.cache
+C:\Users\jorge.jr\Desktop\workspace\MissaoEspacialConsole\MissaoEspacial\obj\Debug\net6.0\MissaoEspacial.dll
+C:\Users\jorge.jr\Desktop\workspace\MissaoEspacialConsole\MissaoEspacial\obj\Debug\net6.0\refint\MissaoEspacial.dll
+C:\Users\jorge.jr\Desktop\workspace\MissaoEspacialConsole\MissaoEspacial\obj\Debug\net6.0\MissaoEspacial.pdb
+C:\Users\jorge.jr\Desktop\workspace\MissaoEspacialConsole\MissaoEspacial\obj\Debug\net6.0\MissaoEspacial.genruntimeconfig.cache
+C:\Users\jorge.jr\Desktop\workspace\MissaoEspacialConsole\MissaoEspacial\obj\Debug\net6.0\ref\MissaoEspacial.dll
